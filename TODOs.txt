@@ -1,0 +1,2 @@
+TODOs for max31865
+1.	implement platform on raspberry pi with all nessesary drivers (SPI, I2C, etc.)
